@@ -1,7 +1,7 @@
 {
   "name": "yus",
   "version": "1.1.4",
-  "private": ,
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
